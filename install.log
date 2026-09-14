@@ -1,0 +1,10 @@
+[14:50:31 2026-09-11] FETCHING Version 2.45.0
+[14:50:31 2026-09-11] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.45.0/spicetify-2.45.0-darwin-arm64.tar.gz
+[14:50:39 2026-09-11] EXTRACTING /Users/jeremy/.spicetify/spicetify.tar.gz
+[14:50:39 2026-09-11] SETTING EXECUTABLE PERMISSIONS TO /Users/jeremy/.spicetify/spicetify
+[14:50:39 2026-09-11] REMOVING /Users/jeremy/.spicetify/spicetify.tar.gz
+[14:50:39 2026-09-11] spicetify path already set in /Users/jeremy/.zshrc, continuing...
+[14:50:39 2026-09-11] spicetify v2.45.0 was installed successfully to /Users/jeremy/.spicetify
+[14:50:39 2026-09-11] Open a new terminal or reload your shell profile to use spicetify:
+[14:50:39 2026-09-11]   source "/Users/jeremy/.zshrc"
+[14:50:39 2026-09-11] Then run 'spicetify --help' to get started
